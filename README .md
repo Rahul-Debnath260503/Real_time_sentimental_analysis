@@ -26,6 +26,6 @@ This project performs **real-time sentiment analysis** on news headlines using *
 ---
 
 ## 🖥️ Live Demo
-[Click here to access the app]{"https://realtimesentimentalanalysis-ai5rbzkad9mzizknjnxy8l.streamlit.app/"}
+[Click here to access the app]["https://realtimesentimentalanalysis-ai5rbzkad9mzizknjnxy8l.streamlit.app/"]
 
 
